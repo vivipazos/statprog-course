@@ -65,6 +65,7 @@ Cheat sheet [pdf](https://github.com/rstudio/cheatsheets/raw/master/data-transfo
 
 ```{r}
 filter(flights, month == 1, day == 1)
+
 ```
 
 ## Row filtering (`filter()`) {.smaller}
